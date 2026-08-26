@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [yangchuansheng/eaglerXserver](https://github.com/yangchuansheng/eaglerXserver), which now owns the source, GitHub Actions release workflow, and GHCR publishing. The latest image is `ghcr.io/yangchuansheng/eaglerx1.8server:2.2.3`.
+
 # EaglercraftX Server Docker Image
 
 [![Container package][container-badge]][container-package]
