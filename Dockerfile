@@ -1,6 +1,6 @@
 FROM ghcr.io/yangchuansheng/eaglerx1.8server:2.2.3
 ENV MINECRAFT_VERSION=1.8
-ENV RCON_PASSWORD=YourSecretPasswordHere
+ENV RCON_PASSWORD=YourSecretPasswordHereking2479
 
 
 
