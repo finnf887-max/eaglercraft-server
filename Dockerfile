@@ -1,3 +1,4 @@
-FROM ghcr.io/yangchuansheng/eaglercraft-server:latest
+FROM ghcr.io/yangchuansheng/eaglerx1.8server:2.2.3
+
 
 
